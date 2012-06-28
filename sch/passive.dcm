@@ -36,12 +36,6 @@ D Jumper
 K jumper 3 pins header
 $ENDCMP
 #
-$CMP RP-SMA
-D RP-SMA (reverse polarity SMA) connector
-K RP-SMA, connector, SMA
-F http://store.comet.bg/bg/Catalogue/Product/8986/
-$ENDCMP
-#
 $CMP TEST
 D TEST Pin
 K TEST pin to place where a control is needed.
