@@ -1,0 +1,57 @@
+EESchema-DOCLIB  Version 2.0  Date: Fri 01 Jun 2012 11:42:03 AM EEST
+#
+$CMP BUTTON
+D TS-061 Tact Switch
+K 2p SPST Tact Switch Button
+F http://store.comet.bg/bg/Catalogue/Product/10161/
+$ENDCMP
+#
+$CMP RES_0603
+D Resistor 0603
+K resistor
+$ENDCMP
+#
+$CMP CAP_0603
+D Capacitor 0603
+K capacitor
+$ENDCMP
+#
+$CMP CAP_0603_POL
+D Tantala capacitor 0603
+K capacitor
+$ENDCMP
+#
+$CMP IND_0603
+D Inductor 0603
+K inductor
+$ENDCMP
+#
+$CMP J2PIN
+D Jumper
+K jumper 2 pins header
+$ENDCMP
+#
+$CMP J3PIN
+D Jumper
+K jumper 3 pins header
+$ENDCMP
+#
+$CMP RP-SMA
+D RP-SMA (reverse polarity SMA) connector
+K RP-SMA, connector, SMA
+F http://store.comet.bg/bg/Catalogue/Product/8986/
+$ENDCMP
+#
+$CMP TEST
+D TEST Pin
+K TEST pin to place where a control is needed.
+F http://store.comet.bg/bg/Catalogue/Product/29190/
+$ENDCMP
+#
+$CMP TEST_PAD
+D TEST Pin
+K TEST pin to place where a control is needed.
+F http://store.comet.bg/bg/Catalogue/Product/29190/
+$ENDCMP
+#
+#End Doc Library
